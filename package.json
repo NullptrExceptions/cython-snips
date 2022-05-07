@@ -1,0 +1,34 @@
+{
+  "name": "cython-snips",
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cython",
+        "path": "./python/base.json"
+      },
+      {
+        "language": "cython",
+        "path": "./python/comprehension.json"
+      },
+      {
+        "language": "cython",
+        "path": "./python/debug.json"
+      },
+      {
+        "language": "cython",
+        "path": "./python/python.json"
+      },
+      {
+        "language": "cython",
+        "path": "./python/unittest.json"
+      },
+      {
+        "language": "cython",
+        "path": "./cython.json"
+      }
+    ]
+  }
+}
